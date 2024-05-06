@@ -6,4 +6,8 @@ Also, put forward a potential solution.
 
 For reader: Feel free to skip the section 1 (the first two pages) as it primarily covers the background of SNN.
 
+A sample stochastic computing code is given in `stochastic_computing.py` file.
+
+A feed-forward neural network for MNIST dataset is given in `Neural Network with Stochastic Computing.ipynb` where stochastic computing is emplyed in the inference.  Error occured. 
+
 More details to follow.
